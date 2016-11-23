@@ -1,0 +1,2 @@
+# safelink
+Auto Safelink
